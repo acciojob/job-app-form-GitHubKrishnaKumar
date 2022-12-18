@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+form{
+    width:50%;
+    margin:auto;
+}
+label{
+    font-weight: 700;
+}
+input[type=text],input[type=email],input[type=number],input[type=date],input[type=password],input[type=url],select{
+    width:100%;
+    margin-bottom: 5px;
+}
